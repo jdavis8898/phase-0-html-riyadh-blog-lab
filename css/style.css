@@ -52,7 +52,8 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .8em;
+  font-weight: 560;
 }
 
 a {
